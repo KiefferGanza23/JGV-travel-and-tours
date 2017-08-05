@@ -11,3 +11,6 @@ C:\Users\Student\Desktop\Login form\Login form\obj\Debug\Login form.pdb
 E:\Login form\Login form\bin\Debug\Login form.exe.config
 E:\Login form\Login form\obj\Debug\Login form.exe
 E:\Login form\Login form\obj\Debug\Login form.pdb
+C:\Users\Student\Desktop\JGV-travel-and-tours\Login form\Login form\bin\Debug\Login form.exe.config
+C:\Users\Student\Desktop\JGV-travel-and-tours\Login form\Login form\obj\Debug\Login form.exe
+C:\Users\Student\Desktop\JGV-travel-and-tours\Login form\Login form\obj\Debug\Login form.pdb
