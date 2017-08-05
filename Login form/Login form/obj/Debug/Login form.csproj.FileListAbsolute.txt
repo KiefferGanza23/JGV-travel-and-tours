@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Login form\Login form\bin\Debug\Login form.exe.config
+C:\Users\Student\Desktop\Login form\Login form\obj\Debug\Login form.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Login form\Login form\obj\Debug\Login_form.Form1.resources
+C:\Users\Student\Desktop\Login form\Login form\obj\Debug\Login_form.Mainmenu.resources
+C:\Users\Student\Desktop\Login form\Login form\obj\Debug\Login_form.Properties.Resources.resources
+C:\Users\Student\Desktop\Login form\Login form\obj\Debug\Login form.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Login form\Login form\bin\Debug\Login form.exe
+C:\Users\Student\Desktop\Login form\Login form\bin\Debug\Login form.pdb
+C:\Users\Student\Desktop\Login form\Login form\obj\Debug\Login form.exe
+C:\Users\Student\Desktop\Login form\Login form\obj\Debug\Login form.pdb
+E:\Login form\Login form\bin\Debug\Login form.exe.config
+E:\Login form\Login form\obj\Debug\Login form.exe
+E:\Login form\Login form\obj\Debug\Login form.pdb
